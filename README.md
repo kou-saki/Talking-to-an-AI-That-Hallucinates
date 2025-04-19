@@ -4,6 +4,14 @@ This repository presents a user-driven reflection and technical breakdown of how
 
 ---
 
+# Talking to an AI That Hallucinates
+
+📄 日本語版はこちら 👉 [README_ja.md](./README_ja.md)
+
+This repository presents a user-driven reflection and technical breakdown...
+
+---
+
 ## 📘 Overview
 
 Large Language Models (LLMs) like GPT-4 often exhibit "hallucinations"—responses that sound plausible but are factually incorrect, inconsistent, or contextually flawed.
